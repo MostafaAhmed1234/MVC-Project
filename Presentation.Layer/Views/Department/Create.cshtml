@@ -1,0 +1,20 @@
+﻿@model DepartmentViewModel
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<h1>Create New Department</h1>
+<br />
+
+@*method="post" you don't need to write it because it will know from type of action*@
+<form asp-action="Create" >
+    <partial name="PartialView/CreateEditDepartmentPartialView" />
+    <input type="submit" value="submit" class="btn btn-success"/>
+    <a asp-action="Index" class="btn btn-info">Back To All Departments</a>
+</form>
+
+@section ValidationScriptSection{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

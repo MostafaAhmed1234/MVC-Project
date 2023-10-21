@@ -1,0 +1,20 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Department</h1>
+<br />
+<form asp-action="Edit">
+    <div asp-validation-summary="All"></div> 
+    @*List All Errors messages in Form[each input, what you create using [ModelState.AddModelError(string.Empty, ex.Message)]]*@
+    <partial name="PartialView/CreateEditDepartmentPartialView" />
+    <input type="submit" value="Save" class="btn btn-success" />
+    <a asp-action="Index" class="btn btn-info">Back To All Departments</a>
+</form>
+
+@section ValidationScriptSection{
+  @*  <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>*@
+    <partial name="_ValidationScriptsPartial" />
+}

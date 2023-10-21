@@ -1,0 +1,15 @@
+﻿@model UserViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<h1>User Details</h1>
+<br />
+
+<form>
+    <partial name="PartialView/DetailsDeleteUserPartialView" />
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-outline-success">Edit</a>
+    <a asp-action="Index" class="btn btn-info">Back To All Users</a>
+</form>
+

@@ -1,0 +1,60 @@
+﻿@model EmployeeViewModel
+
+@{
+    var departmentOptions = new SelectList(ViewBag.Departments, "Id", "Name");
+}
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Name"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Age"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Address"></label>
+    <input asp-for="Address" class="form-control" />
+    <span asp-validation-for="Address" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Currency">Salary</label>
+    <input asp-for="Currency" class="form-control" />
+    <span asp-validation-for="Currency" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Email"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="IsActive"></label>
+    <input asp-for="IsActive" class="form-control" />
+    <span asp-validation-for="IsActive" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Phone"></label>
+    <input asp-for="Phone" class="form-control" />
+    <span asp-validation-for="Phone" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="HireDate"></label>
+    <input asp-for="HireDate" class="form-control" />
+    <span asp-validation-for="HireDate" class="text-danger"></span>
+</div>
+<div class="form-group">
+   @*asp-for="Department" =>> show lable of input*@
+    <label class="col-form-label" asp-for="Department"></label>
+    @*asp-for="Dept_ID" =>> store value in this coloumn
+    asp-items="departmentOptions" =>> IEnurable of SelectList, so we convert in the top of page
+    *@
+    <select class="form-control" asp-for="Dept_ID" asp-items="departmentOptions">
+        <option value="@null">---Select Department</option>
+    </select>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Image"></label>
+    <input asp-for="Image" class="form-control" />
+</div>

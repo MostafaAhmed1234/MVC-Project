@@ -1,0 +1,69 @@
+﻿@model IEnumerable<DepartmentViewModel>
+
+@{
+    ViewData["Title"] = "All Departments";
+}
+
+@if (TempData["Message"] is not null)
+{
+    <div id="alertDiv" class="alert alert-danger mt-3">
+        @TempData["Message"]
+    </div>
+}
+
+<h1>All Departments</h1>
+<br />
+@*you don't need to select controller 
+because this view come from action and will go to another action in the same controller
+Write only if *@
+@*asp-controller="Department"*@
+<a asp-action="Create" class="btn btn-primary">Create New Department</a>
+@if (Model.Count() > 0)
+{
+    <table class="table table-striped table-hover mt-2">
+        <thead>
+            <tr>
+                @*use it to be sure that we will display the names of properties in Model*@
+                <td>@Html.DisplayNameFor(D=>D.Code) </td>
+                <td>@Html.DisplayNameFor(D=>D.Name)</td>
+                <td>Date Of Creation </td>
+                <td>Details </td>
+                <td>Update </td>
+                <td>Delete </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var department in Model)
+            {
+                <tr>
+                    <td>@department.Code</td>
+                    <td>@department.Name</td>
+                    <td>@department.DateOfCreation.ToString("MM/dd/yyyy")</td>
+                    <partial name="_ButtonPartialView" model="@department.Id.ToString()" />
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="mt-4 alert alert-warning d-flex justify-content-center">
+
+        <h3>There are No Departments!!</h3>
+    </div>
+}
+
+@section Script{
+    <script>
+        // Get the reference to the div element
+        const alertDiv = document.getElementById('alertDiv');
+
+        // Function to hide the div
+        function hideDiv() {
+            alertDiv.style.display = 'none';
+        }
+
+        // Hide the div after 5 seconds (5000 milliseconds)
+        setTimeout(hideDiv, 3000);
+    </script>
+}

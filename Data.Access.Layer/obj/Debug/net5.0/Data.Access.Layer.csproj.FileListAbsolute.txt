@@ -1,0 +1,15 @@
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\bin\Debug\net5.0\Data.Access.Layer.deps.json
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\bin\Debug\net5.0\Data.Access.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\bin\Debug\net5.0\Data.Access.Layer.pdb
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.csproj.AssemblyReference.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.AssemblyInfoInputs.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.AssemblyInfo.cs
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.csproj.CoreCompileInputs.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\refint\Data.Access.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.pdb
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\ref\Data.Access.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\bin\Debug\net5.0\Data.Access.Layer.runtimeconfig.json
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\bin\Debug\net5.0\Data.Access.Layer.runtimeconfig.dev.json
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Data.Access.Layer\obj\Debug\net5.0\Data.Access.Layer.genruntimeconfig.cache

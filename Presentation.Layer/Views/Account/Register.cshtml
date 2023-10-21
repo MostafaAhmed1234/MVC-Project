@@ -1,0 +1,40 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+	<div class="agileits-top">
+		@*you don't need to write asp-action="Register" becuase he will go to [action] the same name of view *@
+		@*you don't need to write method="post" becuase it is the defult *@
+		<div asp-validation-summary="All"></div>
+		<form asp-action="Register" method="post">
+			<input class="text" asp-for="fName" placeholder="First Name" required="">
+			<span asp-validation-for="fName"></span>
+			<input class="text" asp-for="lName" placeholder="Last Name" required="">
+			<span asp-validation-for="lName"></span>
+			<input class="text" asp-for="Email" placeholder="Email" required="">
+			<span asp-validation-for="Email"></span>
+			<input class="text" asp-for="Password" placeholder="Password" required="">
+			<span asp-validation-for="Password"></span>
+			<input class="text w3lpass" asp-for="ConfirmPassword" placeholder="Confirm Password" required="">
+			<span asp-validation-for="ConfirmPassword"></span>
+
+			<div class="wthree-text">
+				<label class="anim">
+					<input asp-for="IsAgree" class="checkbox" required="">
+					<span>I Agree To The Terms & Conditions</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SIGNUP">
+		</form>
+		<p>Do you have an Account? <a asp-action="Login"> Login Now!</a></p>
+	</div>
+</div>
+
+@section ValidationScriptSection{
+	<partial name="_ValidationScriptsPartial" />
+}

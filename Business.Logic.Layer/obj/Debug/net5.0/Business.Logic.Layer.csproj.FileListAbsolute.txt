@@ -1,0 +1,15 @@
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\bin\Debug\net5.0\Business.Logic.Layer.deps.json
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\bin\Debug\net5.0\Business.Logic.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\bin\Debug\net5.0\Business.Logic.Layer.pdb
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\bin\Debug\net5.0\Data.Access.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\bin\Debug\net5.0\Data.Access.Layer.pdb
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.AssemblyInfo.cs
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.csproj.CopyComplete
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\refint\Business.Logic.Layer.dll
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\Business.Logic.Layer.pdb
+D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Business.Logic.Layer\obj\Debug\net5.0\ref\Business.Logic.Layer.dll

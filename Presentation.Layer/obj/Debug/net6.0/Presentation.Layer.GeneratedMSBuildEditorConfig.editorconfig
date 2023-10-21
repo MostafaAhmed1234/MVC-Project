@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Presentation.Layer
+build_property.RootNamespace = Presentation.Layer
+build_property.ProjectDir = D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Presentation.Layer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\.net route\Vedios\Eng Ahmed Nasr\07 ASP.NET Core MVC\Session 02\Demos\All.Solution\Presentation.Layer
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Account/checkyourInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxjaGVja3lvdXJJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/PartialView/CreateEditDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld1xDcmVhdGVFZGl0RGVwYXJ0bWVudFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Department/PartialView/DetialsDeleteDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld1xEZXRpYWxzRGVsZXRlRGVwYXJ0bWVudFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/PartialView/CreateEditEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdcQ3JlYXRlRWRpdEVtcGxveWVlUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Employee/PartialView/DetailsDeleteEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdcRGV0YWlsc0RlbGV0ZUVtcGxveWVlUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/PartialView/CreateEditUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcUGFydGlhbFZpZXdcQ3JlYXRlRWRpdFVzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role - Copy/PartialView/DetailsDeleteUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZSAtIENvcHlcUGFydGlhbFZpZXdcRGV0YWlsc0RlbGV0ZVVzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/AddOrRemoveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRPclJlbW92ZVVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/PartialView/CreateEditRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld1xDcmVhdGVFZGl0Um9sZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Role/PartialView/DetailsDeleteRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld1xEZXRhaWxzRGVsZXRlUm9sZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Shared/_ButtonPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25QYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/PartialView/CreateEditUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYXJ0aWFsVmlld1xDcmVhdGVFZGl0VXNlclBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/User/PartialView/DetailsDeleteUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYXJ0aWFsVmlld1xEZXRhaWxzRGVsZXRlVXNlclBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.net route/Vedios/Eng Ahmed Nasr/07 ASP.NET Core MVC/Session 02/Demos/All.Solution/Presentation.Layer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
